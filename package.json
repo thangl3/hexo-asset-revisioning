@@ -1,0 +1,42 @@
+{
+  "name": "hexo-asset-revisioning",
+  "version": "1.0.0",
+  "description": "Enabling revisioning of assets for Hexo to support all types. Fork from hexo-asset-pipeline",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "hasha": "^5.2.2",
+    "minimatch": "^3.0.4",
+    "rev-path": "^2.0.0",
+    "soup": "^0.1.5",
+    "stream-to-array": "^2.3.0"
+  },
+  "devDependencies": {
+    "hexo": "^5.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangl3/hexo-asset-revisioning.git"
+  },
+  "keywords": [
+    "revisioning",
+    "hexo-revisioning",
+    "hexo-asset-revisioning",
+    "thangl3",
+    "hexo",
+    "hexo-plugin",
+    "hexo-plugins"
+  ],
+  "author": "thangl3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thangl3/hexo-asset-revisioning/issues"
+  },
+  "homepage": "https://github.com/thangl3/hexo-asset-revisioning#readme"
+}
