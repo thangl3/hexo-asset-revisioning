@@ -13,6 +13,7 @@ if (config.revisioning) {
    */
   const revisioningDefaults = {
     exclude: [],
+    root: '',
   };
   const soupConfig = {
     selectors: {

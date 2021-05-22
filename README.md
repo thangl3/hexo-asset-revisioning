@@ -39,6 +39,7 @@ revisioning:
   enable: false
   keep: false
   exclude: []
+  root: ''
   selectors:
     'img[data-src]': 'data-src'
     'img[src]': 'src'

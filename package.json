@@ -1,6 +1,6 @@
 {
   "name": "hexo-asset-revisioning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enabling revisioning of assets for Hexo to support all types. Fork from hexo-asset-pipeline",
   "main": "index.js",
   "directories": {
